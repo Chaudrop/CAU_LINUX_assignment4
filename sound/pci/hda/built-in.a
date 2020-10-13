@@ -1,0 +1,21 @@
+!<thin>
+//                                              126       `
+hda_bind.o/
+hda_codec.o/
+hda_jack.o/
+hda_auto_parser.o/
+hda_sysfs.o/
+hda_controller.o/
+hda_proc.o/
+hda_hwdep.o/
+hda_intel.o/
+
+/0              0           0     0     644     9064      `
+/12             0           0     0     644     125728    `
+/25             0           0     0     644     21408     `
+/37             0           0     0     644     24832     `
+/56             0           0     0     644     7680      `
+/69             0           0     0     644     52496     `
+/87             0           0     0     644     29016     `
+/99             0           0     0     644     3504      `
+/112            0           0     0     644     61840     `

@@ -1,0 +1,24 @@
+!<thin>
+//                                              152       `
+iommu.o/
+iommu-traces.o/
+iommu-sysfs.o/
+iova.o/
+amd_iommu.o/
+amd_iommu_init.o/
+amd_iommu_quirks.o/
+dmar.o/
+intel-iommu.o/
+intel-pasid.o/
+intel-trace.o/
+/0              0           0     0     644     87072     `
+/9              0           0     0     644     29096     `
+/25             0           0     0     644     6072      `
+/40             0           0     0     644     32992     `
+/48             0           0     0     644     82952     `
+/61             0           0     0     644     55128     `
+/79             0           0     0     644     4296      `
+/99             0           0     0     644     58584     `
+/107            0           0     0     644     144624    `
+/122            0           0     0     644     15096     `
+/137            0           0     0     644     14816     `

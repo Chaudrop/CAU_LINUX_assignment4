@@ -1,0 +1,20 @@
+!<thin>
+//                                              126       `
+edac_mc.o/
+edac_device.o/
+edac_mc_sysfs.o/
+edac_module.o/
+edac_device_sysfs.o/
+wq.o/
+edac_pci.o/
+edac_pci_sysfs.o/
+mce_amd.o/
+/0              0           0     0     644     33072     `
+/11             0           0     0     644     15224     `
+/26             0           0     0     644     31776     `
+/43             0           0     0     644     5720      `
+/58             0           0     0     644     13960     `
+/79             0           0     0     644     4400      `
+/85             0           0     0     644     12896     `
+/97             0           0     0     644     17888     `
+/115            0           0     0     644     47848     `
